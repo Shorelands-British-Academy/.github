@@ -4,10 +4,9 @@ Welcome to the official GitHub organization for the Shorelands Digital Skills Pr
 
 Powered in partnership with **D'Creativs**.
 
-## Tracks
+## Track
 
 - **Web Development** (HTML & CSS) — led by Mr. Pleasant
-- **3D / Blender** — led by Kingsley
 
 ## Classes
 
@@ -24,8 +23,8 @@ Each class has its own Team on this organization. Your facilitator will add you 
 
 ### 1. Create your repository on GitHub
 
-1. Create a new repository using this naming format: `shorelands-[class]-[track]-[yourname]`
-   Example: `shorelands-j1-webdev-johndoe` or `shorelands-s2-blender-janedoe`
+1. Create a new repository using this naming format: `shorelands-[class]-webdev-[yourname]`
+   Example: `shorelands-j1-webdev-johndoe` or `shorelands-s2-webdev-janedoe`
 2. Set the repository to **private**.
 3. Add your class team (e.g. `J1`) as a collaborator with **Write** access.
 
@@ -45,7 +44,7 @@ This creates two folders: `assignment` for your assignment work, and `class` for
 ### 3. Connect your local folder to your GitHub repo
 
 ```
-git remote add origin https://github.com/Shorelands-British-Academy/shorelands-[class]-[track]-yourname.git
+git remote add origin https://github.com/Shorelands-British-Academy/shorelands-[class]-webdev-yourname.git
 ```
 
 You'll find this exact URL on your repo page under the green **Code** button.
