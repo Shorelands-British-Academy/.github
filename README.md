@@ -6,7 +6,7 @@ Powered in partnership with **D'Creativs**.
 
 ## Tracks
 
-- **Web Development** (HTML & CSS) — led by Xant
+- **Web Development** (HTML & CSS) — led by Mr. Pleasant
 - **3D / Blender** — led by Kingsley
 
 ## Classes
